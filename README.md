@@ -1,6 +1,5 @@
-# Pickle to CSV Converter
+# Pickle to CSV
 
-## Description
 A simple tool for converting .pkl data files into .csv format
 
 ## Requirements
@@ -15,7 +14,7 @@ Next, clone this repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/snedev/pickle-to-csv
-cd pickle-to-csv-converter
+cd pickle-to-csv
 ```
 
 Finally, install the required Python libraries using pip:
